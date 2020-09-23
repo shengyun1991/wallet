@@ -1,4 +1,4 @@
-使用ethur.js实现钱包功能，前端使用react的semantic-ui框架
+使用ethur.js实现钱包功能
 
 1.指定私钥获取钱包
 let privateKey1 = '0xd31eb076b4a43e3dcb08750e1a7af93d88a26ec78327feeadfceb21233555594'
